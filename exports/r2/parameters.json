@@ -1,0 +1,20 @@
+{
+  "body_width": 134,
+  "body_depth": 49,
+  "body_height": 80.5,
+  "frame_width": 186,
+  "frame_depth": 70,
+  "post_offset_x": 80,
+  "post_offset_y": 21,
+  "post_diameter": 15,
+  "base_bottom": -12,
+  "base_top": -2,
+  "top_bottom": 90,
+  "top_top": 102,
+  "screw_x": -17,
+  "screw_y": 0,
+  "arca_width": 38,
+  "nato_width": 21,
+  "arri_pin_spacing": 15,
+  "arri_pin_diameter": 3
+}

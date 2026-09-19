@@ -1,0 +1,920 @@
+[
+  {
+    "part": "top_plate",
+    "thread": "M4",
+    "position_mm": [
+      -79.6,
+      30.5,
+      96
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "baseplate",
+    "thread": "M4",
+    "position_mm": [
+      -79.6,
+      30.5,
+      -7
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "left_upright",
+    "thread": "M4",
+    "position_mm": [
+      -80,
+      21,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 14,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "left_upright",
+    "thread": "M4",
+    "position_mm": [
+      -80,
+      21,
+      -9
+    ],
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "top_plate",
+    "thread": "M4",
+    "position_mm": [
+      80.4,
+      -30.5,
+      96
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "baseplate",
+    "thread": "M4",
+    "position_mm": [
+      80.4,
+      -30.5,
+      -7
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "right_upright",
+    "thread": "M4",
+    "position_mm": [
+      80,
+      -21,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 14,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "right_upright",
+    "thread": "M4",
+    "position_mm": [
+      80,
+      -21,
+      -9
+    ],
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "top_plate",
+    "thread": "3/8-16",
+    "position_mm": [
+      -51,
+      22,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 8.2,
+    "pitch_mm": 1.5875
+  },
+  {
+    "part": "top_plate",
+    "thread": "3/8-16",
+    "position_mm": [
+      51,
+      22,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 8.2,
+    "pitch_mm": 1.5875
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -17,
+      22,
+      108
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 18,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      17,
+      22,
+      108
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 18,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "3/8-16",
+    "position_mm": [
+      80,
+      7,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 8.2,
+    "pitch_mm": 1.5875
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -68,
+      35,
+      96
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -34,
+      35,
+      96
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      34,
+      35,
+      96
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      68,
+      35,
+      96
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -37,
+      22,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      37,
+      22,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -93,
+      -19,
+      96
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 9,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -93,
+      -6,
+      96
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 9,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "top_plate",
+    "thread": "M3",
+    "position_mm": [
+      -80,
+      -23,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "top_plate",
+    "thread": "M3",
+    "position_mm": [
+      -80,
+      -12,
+      102
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -61,
+      35,
+      -7
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -36,
+      35,
+      -7
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -10,
+      35,
+      -7
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -93,
+      -22,
+      -7
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 9,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -93,
+      -7,
+      -7
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 9,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "3/8-16",
+    "position_mm": [
+      -55,
+      0,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 8.2,
+    "pitch_mm": 1.5875
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -35,
+      0,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -73,
+      -25,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -48,
+      -28,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -23,
+      -28,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -73,
+      25,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -48,
+      28,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "1/4-20",
+    "position_mm": [
+      -23,
+      28,
+      -2
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 8,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "baseplate",
+    "thread": "M4",
+    "position_mm": [
+      -25,
+      43,
+      -4
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "baseplate",
+    "thread": "M4",
+    "position_mm": [
+      -9,
+      43,
+      -4
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "baseplate",
+    "thread": "M2.5",
+    "position_mm": [
+      71,
+      35,
+      -9
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 2.05,
+    "pitch_mm": 0.45
+  },
+  {
+    "part": "baseplate",
+    "thread": "M2.5",
+    "position_mm": [
+      89,
+      35,
+      -9
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 2.05,
+    "pitch_mm": 0.45
+  },
+  {
+    "part": "left_NATO_carrier",
+    "thread": "M3",
+    "position_mm": [
+      -89.5,
+      20.6,
+      26
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "left_NATO_carrier",
+    "thread": "M3",
+    "position_mm": [
+      -89.5,
+      20.6,
+      74
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "left_NATO_carrier",
+    "thread": "1/4-20",
+    "position_mm": [
+      -103,
+      21,
+      40
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 6,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "left_NATO_carrier",
+    "thread": "1/4-20",
+    "position_mm": [
+      -103,
+      21,
+      60
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 6,
+    "pilot_diameter_mm": 5.1,
+    "pitch_mm": 1.27
+  },
+  {
+    "part": "cable_mount",
+    "thread": "M4",
+    "position_mm": [
+      -95,
+      5,
+      16
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "cable_mount",
+    "thread": "M4",
+    "position_mm": [
+      -81,
+      5,
+      16
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "cable_mount",
+    "thread": "M3",
+    "position_mm": [
+      -89.5,
+      20.6,
+      12
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "cable_swing_frame",
+    "thread": "M4",
+    "position_mm": [
+      -83,
+      -8,
+      47
+    ],
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "usable_depth_mm": 7,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "lens_support_slider",
+    "thread": "M3",
+    "position_mm": [
+      -17,
+      55,
+      -0.5
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "usable_depth_mm": 6,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "side_lug_bridge",
+    "thread": "M3",
+    "position_mm": [
+      89.5,
+      -20.6,
+      72.5
+    ],
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "grip_carrier",
+    "thread": "M3",
+    "position_mm": [
+      89.5,
+      -20.6,
+      16
+    ],
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "grip_carrier",
+    "thread": "M3",
+    "position_mm": [
+      89.5,
+      -20.6,
+      61
+    ],
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "usable_depth_mm": 10,
+    "pilot_diameter_mm": 2.5,
+    "pitch_mm": 0.5
+  },
+  {
+    "part": "grip_carrier",
+    "thread": "M4",
+    "position_mm": [
+      101,
+      -21,
+      25
+    ],
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  },
+  {
+    "part": "grip_carrier",
+    "thread": "M4",
+    "position_mm": [
+      101,
+      -21,
+      48
+    ],
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "usable_depth_mm": 12,
+    "pilot_diameter_mm": 3.3,
+    "pitch_mm": 0.7
+  }
+]

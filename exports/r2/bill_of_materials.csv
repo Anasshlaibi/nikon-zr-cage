@@ -1,0 +1,60 @@
+﻿Part,Group,Material,Volume_mm3,Estimated_mass_g,Notes
+left_top_clamp_screw,core,steel,308.24,2.44,Thread envelope; thread specified in BOM/hole schedule.
+left_base_clamp_screw,core,steel,308.24,2.44,Thread envelope; thread specified in BOM/hole schedule.
+left_upright,core,metal,19388.38,52.35,
+left_top_retainer,core,steel,385.79,3.06,
+left_top_axial_screw,core,steel,232.36,1.84,Thread envelope; thread specified in BOM/hole schedule.
+left_base_axial_screw,core,steel,179.05,1.42,Thread envelope; thread specified in BOM/hole schedule.
+right_top_clamp_screw,core,steel,308.24,2.44,Thread envelope; thread specified in BOM/hole schedule.
+right_base_clamp_screw,core,steel,308.24,2.44,Thread envelope; thread specified in BOM/hole schedule.
+right_upright,core,metal,19388.38,52.35,
+right_top_retainer,core,steel,385.79,3.06,
+right_top_axial_screw,core,steel,232.36,1.84,Thread envelope; thread specified in BOM/hole schedule.
+right_base_axial_screw,core,steel,179.05,1.42,Thread envelope; thread specified in BOM/hole schedule.
+top_NATO_stop_-25,core,steel,13.57,0.11,
+top_NATO_stop_25,core,steel,13.57,0.11,
+pad_-48_-16,core,rubber,365.13,0.42,
+pad_-48_16,core,rubber,365.13,0.42,
+pad_-7_-16,core,rubber,365.13,0.42,
+pad_-7_16,core,rubber,365.13,0.42,
+tool_magnet,core,steel,33.38,0.26,
+magnetic_multitool,core,steel,364.71,2.89,
+top_plate,core,metal,71273.57,192.44,
+baseplate,core,metal,102245.25,276.06,
+camera_tie_down,core,steel,712.45,5.65,Thread envelope; thread specified in BOM/hole schedule.
+camera_anti_twist_pin,core,steel,70.69,0.56,Provisional camera hole center and engagement.
+cold_shoe_screw_-23,core,steel,52.95,0.42,"Thread envelope; M3 countersunk screw, flush shoe channel."
+cold_shoe_screw_-12,core,steel,52.95,0.42,"Thread envelope; M3 countersunk screw, flush shoe channel."
+cold_shoe,core,metal,1505.44,4.06,
+side_rail_clamp_22,core,steel,130.6,1.04,Thread envelope; thread specified in BOM/hole schedule.
+side_rail_clamp_70,core,steel,130.6,1.04,Thread envelope; thread specified in BOM/hole schedule.
+side_NATO_stop_29,core,steel,13.57,0.11,
+side_NATO_stop_71,core,steel,13.57,0.11,
+left_NATO_carrier,core,metal,13304.3,35.92,
+cable_mount_clamp,core,steel,136.58,1.08,Thread envelope; thread specified in BOM/hole schedule.
+cable_mount,core,metal,4057.96,10.96,
+cable_carrier_M4_-95,core,steel,188.71,1.5,Thread envelope; thread specified in BOM/hole schedule.
+cable_carrier_M4_-81,core,steel,188.71,1.5,Thread envelope; thread specified in BOM/hole schedule.
+cable_pivot_plate,core,metal,807.08,2.18,
+cable_swing_frame,core,metal,11354.03,30.66,
+cable_moving_jaw,core,metal,1286.23,3.47,
+cable_lower_pad,core,rubber,479.76,0.55,
+cable_upper_pad,core,rubber,479.76,0.55,
+cable_thumbwheel,core,steel,545.21,4.32,
+QD_socket_insert,core,steel,511.58,4.06,Detailed provisional socket; select and qualify a swivel before load use.
+QD_retention_71,core,steel,45.4,0.36,Thread envelope; thread specified in BOM/hole schedule.
+QD_retention_89,core,steel,45.4,0.36,Thread envelope; thread specified in BOM/hole schedule.
+lens_slider_-25,lens,steel,210.15,1.67,Thread envelope; thread specified in BOM/hole schedule.
+lens_slider_-9,lens,steel,210.15,1.67,Thread envelope; thread specified in BOM/hole schedule.
+lens_support_slider,lens,metal,2593.48,7.0,
+lens_adapter_support,lens,steel,1374.62,10.9,Provisional 1/4-20 tip envelope; adapter height is adjustable.
+lens_support_lock,lens,steel,97.62,0.77,Thread envelope; thread specified in BOM/hole schedule.
+side_lug_bridge,core,metal,1611.03,4.35,M2.5 slotted lug connection provisional; requires camera-specific through-lug adapter.
+side_bridge_clamp,core,steel,136.58,1.08,Thread envelope; thread specified in BOM/hole schedule.
+M2_5_lug_fastener,core,steel,51.0,0.4,Thread envelope; thread specified in BOM/hole schedule.
+grip_clamp_12,grip,steel,136.58,1.08,Thread envelope; thread specified in BOM/hole schedule.
+grip_clamp_57,grip,steel,136.58,1.08,Thread envelope; thread specified in BOM/hole schedule.
+grip_carrier,grip,metal,10330.78,27.89,
+grip_retention_25,grip,steel,343.39,2.72,Thread envelope; thread specified in BOM/hole schedule.
+grip_retention_48,grip,steel,343.39,2.72,Thread envelope; thread specified in BOM/hole schedule.
+silicone_grip,grip,rubber,39848.08,45.83,Contoured grip; mold tooling and insert retention require DFM review.

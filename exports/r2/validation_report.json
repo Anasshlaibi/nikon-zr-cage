@@ -1,0 +1,194 @@
+{
+  "revision": "R2",
+  "status": "DESIGN DEVELOPMENT \u2014 CAMERA FIT UNMEASURED",
+  "part_count_complete": 53,
+  "part_count_all_hardware": 59,
+  "all_parts_single_valid_solids": true,
+  "step_roundtrip_solids": 53,
+  "iges_read_success": true,
+  "iges_transferred_shapes": 53,
+  "iges_solid_count": 53,
+  "iges_shape_valid": true,
+  "estimated_core_mass_g": 717.4,
+  "estimated_complete_mass_g": 739.4,
+  "camera_proxy_intersections": [],
+  "provisional_interfaces": [
+    "camera tripod center/depth",
+    "camera anti-twist hole",
+    "strap lug",
+    "door and screen hinge dimensions",
+    "NATO/Arca/QD mating fit",
+    "lens adapter support height"
+  ],
+  "notes": [],
+  "pairwise_intersections": [
+    {
+      "a": "left_top_clamp_screw",
+      "b": "top_plate",
+      "mm3": 21.47,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "left_base_clamp_screw",
+      "b": "baseplate",
+      "mm3": 21.47,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "left_upright",
+      "b": "left_top_axial_screw",
+      "mm3": 25.806,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "left_upright",
+      "b": "left_base_axial_screw",
+      "mm3": 19.94,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "right_top_clamp_screw",
+      "b": "top_plate",
+      "mm3": 20.73,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "right_base_clamp_screw",
+      "b": "baseplate",
+      "mm3": 20.73,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "right_upright",
+      "b": "right_top_axial_screw",
+      "mm3": 25.806,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "right_upright",
+      "b": "right_base_axial_screw",
+      "mm3": 19.94,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "top_plate",
+      "b": "cold_shoe_screw_-23",
+      "mm3": 5.871,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "top_plate",
+      "b": "cold_shoe_screw_-12",
+      "mm3": 5.871,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "baseplate",
+      "b": "QD_retention_71",
+      "mm3": 3.326,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "baseplate",
+      "b": "QD_retention_89",
+      "mm3": 3.153,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "baseplate",
+      "b": "lens_slider_-25",
+      "mm3": 15.349,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "baseplate",
+      "b": "lens_slider_-9",
+      "mm3": 15.349,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "side_rail_clamp_22",
+      "b": "left_NATO_carrier",
+      "mm3": 5.954,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "side_rail_clamp_70",
+      "b": "left_NATO_carrier",
+      "mm3": 5.954,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "cable_mount_clamp",
+      "b": "cable_mount",
+      "mm3": 5.606,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "cable_mount",
+      "b": "cable_carrier_M4_-95",
+      "mm3": 14.328,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "cable_mount",
+      "b": "cable_carrier_M4_-81",
+      "mm3": 14.328,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "cable_swing_frame",
+      "b": "cable_thumbwheel",
+      "mm3": 16.879,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "lens_support_slider",
+      "b": "lens_support_lock",
+      "mm3": 6.075,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "side_lug_bridge",
+      "b": "side_bridge_clamp",
+      "mm3": 5.607,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "grip_clamp_12",
+      "b": "grip_carrier",
+      "mm3": 6.151,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "grip_clamp_57",
+      "b": "grip_carrier",
+      "mm3": 6.151,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "grip_carrier",
+      "b": "grip_retention_25",
+      "mm3": 11.778,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
+      "a": "grip_carrier",
+      "b": "grip_retention_48",
+      "mm3": 11.778,
+      "classification": "declared_simplified_thread_pair"
+    }
+  ],
+  "unintended_part_intersections": [],
+  "minimum_noncontact_camera_proxy_gap": {
+    "part": "M2_5_lug_fastener",
+    "gap_mm": 1.55
+  },
+  "provisional_motion_intersections": [],
+  "motion_scope": "Screen opening 0..180, bottom door 0..105 and cable clamp opening 0..90 sampled every 15 deg; camera dimensions provisional; latch screw withdrawn for cable motion. No physical fit certification.",
+  "assembly_bounds_mm": {
+    "width": 197.01,
+    "depth": 93.02,
+    "height": 126.0
+  }
+}
