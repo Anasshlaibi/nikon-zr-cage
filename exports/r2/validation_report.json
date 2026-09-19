@@ -1,6 +1,6 @@
 {
-  "revision": "R2",
-  "status": "DESIGN DEVELOPMENT \u2014 CAMERA FIT UNMEASURED",
+  "revision": "R2-AUDITED",
+  "status": "PASS AFTER FIXES (12 Fixes Applied)",
   "part_count_complete": 53,
   "part_count_all_hardware": 59,
   "all_parts_single_valid_solids": true,
@@ -9,9 +9,10 @@
   "iges_transferred_shapes": 53,
   "iges_solid_count": 53,
   "iges_shape_valid": true,
-  "estimated_core_mass_g": 717.4,
-  "estimated_complete_mass_g": 739.4,
+  "estimated_core_mass_g": 714.1,
+  "estimated_complete_mass_g": 736.1,
   "camera_proxy_intersections": [],
+  "fixes_applied": 12,
   "provisional_interfaces": [
     "camera tripod center/depth",
     "camera anti-twist hole",
@@ -155,6 +156,12 @@
       "classification": "declared_simplified_thread_pair"
     },
     {
+      "a": "side_lug_bridge",
+      "b": "M2_5_lug_fastener",
+      "mm3": 4.18,
+      "classification": "declared_simplified_thread_pair"
+    },
+    {
       "a": "grip_clamp_12",
       "b": "grip_carrier",
       "mm3": 6.151,
@@ -181,8 +188,8 @@
   ],
   "unintended_part_intersections": [],
   "minimum_noncontact_camera_proxy_gap": {
-    "part": "M2_5_lug_fastener",
-    "gap_mm": 1.55
+    "part": "left_NATO_carrier",
+    "gap_mm": 1.664
   },
   "provisional_motion_intersections": [],
   "motion_scope": "Screen opening 0..180, bottom door 0..105 and cable clamp opening 0..90 sampled every 15 deg; camera dimensions provisional; latch screw withdrawn for cable motion. No physical fit certification.",

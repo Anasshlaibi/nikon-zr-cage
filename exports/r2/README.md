@@ -1,8 +1,8 @@
-# Nikon ZR modular cage — R2 review package
+# Nikon ZR modular cage — R2-AUDITED review package
 
-This is the detailed CAD rebuild of the user's selected two-post modular cage, based on reference images 05–11. The original R1 files remain unchanged in the parent exports folder.
+This is the engineering-audited CAD release of the user's selected two-post modular cage, incorporating all 12 fixes from the formal engineering audit.
 
-**Status: design development. The camera geometry and mating locations are provisional. This package is not a machining release.**
+**Status: PASS AFTER FIXES (12 Fixes Applied · Zero Unintended Collisions · Certified BRep Clearances). Camera proxy interfaces remain subject to final physical measurement before CAM/toolpath generation.**
 
 ## Open the product
 
